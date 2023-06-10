@@ -1,0 +1,21 @@
+.header_block{
+    z-index: 9;
+    top: 0px;
+    position:absolute;
+    height: 130px;
+    width: 100vw;
+    background-color: #2b9fc6;
+    padding:0;
+}
+
+.text_container{
+    height: 100px;
+    width: 300px;
+    position:relative;
+    font-family: Astro;
+    font-size: xxx-large;
+    color: #D2CF32;
+    padding: 10px;
+    background-color: transparent;
+    margin-left: 40vw;
+}

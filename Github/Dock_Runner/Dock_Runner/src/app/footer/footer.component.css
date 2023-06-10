@@ -1,0 +1,9 @@
+.footer_block{
+    height:130px;
+    width: 100vw;
+    background-color: #2b9fc6;
+    margin:0;
+    padding:0;
+    position:absolute;
+    bottom:0;
+}
